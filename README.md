@@ -67,4 +67,4 @@ This application uses an in-memory database, which is automatically started alon
 
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/imhotkp/Fetchzie/issues).
 
-\
+
