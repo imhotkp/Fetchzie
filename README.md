@@ -61,7 +61,7 @@ The application performs logging every time a contact is created. You can find t
 
 ## Database
 
-This application uses an in-memory database, which is automatically started along with the application. The database stores the contact information and generates unique identifiers for each contact.
+This application uses an in-memory database(H2), which is automatically started along with the application. The database stores the contact information and generates unique identifiers for each contact.
 
 ## Contributing
 
