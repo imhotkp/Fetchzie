@@ -22,7 +22,7 @@ Follow the steps below to set up and run the Spring Boot application:
 2. Navigate to the project directory:
 
    ```shell
-   cd contact-management
+   cd contact-manager
    ```
 
 3. Build the application using Maven:
@@ -31,13 +31,7 @@ Follow the steps below to set up and run the Spring Boot application:
    mvn clean package
    ```
 
-4. Run the application:
-
-   ```shell
-   java -jar target/contact-management.jar
-   ```
-
-5. Once the application is running, you can access it at `http://localhost:8080`.
+4. Once the application is running, you can access it at `http://localhost:8080`.
 
 ## Endpoints
 
